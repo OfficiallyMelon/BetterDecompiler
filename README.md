@@ -18,6 +18,11 @@ Install Python (python.org)
 Install packages for pip: ```pip install g4f flask curl_cffi```
 
 Run Python Script: ```python flask_ai_server.py```
+# Dark Dex v4 (BetterDecompiler built in)
+```
+loadstring(game:HttpGet("https://github.com/OfficiallyMelon/BetterDecompiler/raw/main/dex_betterdecompiler.lua"))()
+```
+
 ### Credits:
     Made by @officiallymelon
     Reverse Proxy:[@xtekky](https://github.com/xtekky)
