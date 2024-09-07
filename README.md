@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9efd44fb-7c5a-4942-886f-80808dbf35c0)# BetterDecompiler:
+# BetterDecompiler:
 
 new update out! please use it if you dont want to have an error lmao. reinstall the new pip packages as well!
 
