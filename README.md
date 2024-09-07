@@ -1,4 +1,6 @@
-# BetterDecompiler:
+![image](https://github.com/user-attachments/assets/9efd44fb-7c5a-4942-886f-80808dbf35c0)# BetterDecompiler:
+
+new update out! please use it if you dont want to have an error lmao. reinstall the new pip packages as well!
 
 ### Description:
     Uses your standard executor decompile function,
@@ -15,7 +17,7 @@
 ### Installation:
 Install Python (python.org)
 
-Install packages for pip: ```pip install g4f flask curl_cffi```
+Install packages for pip: ```pip install git+https://github.com/kqlio67/gpt4free.git flask curl_cffi```
 
 Run Python Script: ```python flask_ai_server.py```
 # Dark Dex v4 (BetterDecompiler built in)
